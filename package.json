@@ -1,0 +1,15 @@
+{
+  "name": "oanh-shop",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "npm --prefix ban-hang/mobile start",
+    "start": "npm --prefix ban-hang/mobile start",
+    "android": "npm --prefix ban-hang/mobile run android",
+    "ios": "npm --prefix ban-hang/mobile run ios",
+    "web": "npm --prefix ban-hang/mobile run web",
+    "typecheck": "npm --prefix ban-hang/mobile run typecheck",
+    "apk": "npm --prefix ban-hang/mobile run apk"
+  }
+}
